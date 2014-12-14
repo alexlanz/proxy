@@ -5,6 +5,7 @@ Proxy
 
 1. Start the vagrant box
     - vagrant up
+    - Select the network interface, that is connected to the local network
     - vagrant ssh
 - Display the network interfaces
     - ifconfig
